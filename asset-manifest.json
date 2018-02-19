@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.9c667d73.css",
   "main.css.map": "static/css/main.9c667d73.css.map",
-  "main.js": "static/js/main.7833532b.js",
-  "main.js.map": "static/js/main.7833532b.js.map",
+  "main.js": "static/js/main.9e9afc5a.js",
+  "main.js.map": "static/js/main.9e9afc5a.js.map",
   "static\\media\\BuildAWikipediaViewer.png": "static/media/BuildAWikipediaViewer.d381b512.png",
   "static\\media\\BuildaPomodoroClock.png": "static/media/BuildaPomodoroClock.c62eb63e.png",
   "static\\media\\Certificate.png": "static/media/Certificate.b29ff8c7.png",
@@ -29,5 +29,6 @@
   "static\\media\\tictactoe.png": "static/media/tictactoe.e3b9345e.png",
   "static\\media\\timestampmicroservice.png": "static/media/timestampmicroservice.a9d57958.png",
   "static\\media\\twitchTVAPI.png": "static/media/twitchTVAPI.e43e6eef.png",
-  "static\\media\\url-shortener-microservice.png": "static/media/url-shortener-microservice.7d5bfc33.png"
+  "static\\media\\url-shortener-microservice.png": "static/media/url-shortener-microservice.7d5bfc33.png",
+  "static\\media\\votenex.png": "static/media/votenex.8d98d7ad.png"
 }
